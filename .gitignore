@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+coverage/
+package-lock.json
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+config.bat
