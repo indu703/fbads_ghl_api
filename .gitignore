@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+.env
+dist/
+coverage/
+.env.local
+package-lock.json
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
